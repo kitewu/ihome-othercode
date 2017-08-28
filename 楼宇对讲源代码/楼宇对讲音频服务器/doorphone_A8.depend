@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1461678153 source:/home/lhc/code/doorphone_A8/main.c
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<string.h>
+	<pthread.h>
+
